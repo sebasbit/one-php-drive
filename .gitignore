@@ -1,0 +1,6 @@
+# archivos
+configuracion.php
+var/oauth/*
+
+# carpetas
+vendor/

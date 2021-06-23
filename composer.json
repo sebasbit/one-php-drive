@@ -1,0 +1,17 @@
+{
+    "name": "sebastian/ondedrive",
+    "description": "Probando una conexión con OneDrive usando Microsoft Graph y onedrive-php-sdk",
+    "type": "project",
+    "require": {
+        "krizalys/onedrive-php-sdk": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Sebastian Torres Cabrera",
+            "email": "sebastian.torres0426@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": ["./oauth/funciones.php", "./http/funciones.php"]
+    }
+}
